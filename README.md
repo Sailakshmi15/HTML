@@ -4,4 +4,4 @@ HTML is a standard markup language for web pages.
 HTML is easy to learn.
 
 
-I Love: coffee: :pizza:,:dancer:.
+I Love :coffee: :pizza:,:dancer:.
